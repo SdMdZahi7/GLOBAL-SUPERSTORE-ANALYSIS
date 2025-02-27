@@ -110,7 +110,7 @@ Planned additions and future updates:
 I’d love to hear your thoughts and ideas to improve this project. Here’s how you can contribute:
 - Open an issue or suggest features.
 - Fork the repository and submit a pull request.
-- Reach out to me on [LinkedIn](https://linkedin.com/in/your-profile).
+- Reach out to me on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/syed-muhammed-zahi/).
 
 ---
 
