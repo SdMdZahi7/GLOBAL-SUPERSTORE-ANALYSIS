@@ -27,7 +27,7 @@ Global-Super-Store-Analysis/
 ├── Global Super Store.pbix   # Power BI dashboard file
 ├── Global_Super_Store.xlsx   # Dataset used for the dashboard
 ├── README.md                 # Project overview and instructions```
-
+```
 ---
 
 ## ⚡ Quick Start
